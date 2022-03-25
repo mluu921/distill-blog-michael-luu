@@ -2,18 +2,17 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "title": "Tobi Burns",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-25T16:12:10-07:00"
+      "contents": "\r\n\r\n          \r\n          \r\n          Michael Luu, MPH\r\n          \r\n          \r\n          Home\r\n          About\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Tobi Burns\r\n          \r\n          \r\n            \r\n              I am a classically trained data scientist living in the\r\n              San Francisco Bay Area. Currently I work on the Oculus\r\n              team at Facebook. I love talking about baseball, true\r\n              crime podcasts, and causal inference.\r\n            \r\n            \r\n              I am a classically trained data scientist living in the\r\n              San Francisco Bay Area. Currently I work on the Oculus\r\n              team at Facebook. I love talking about baseball, true\r\n              crime podcasts, and causal inference.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-03-25T16:48:44-07:00"
     },
     {
       "path": "index.html",
       "title": "Michael Luu, MPH",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-25T16:12:10-07:00"
+      "last_modified": "2022-03-25T16:48:45-07:00"
     }
   ],
   "collections": ["posts/posts.json"]
