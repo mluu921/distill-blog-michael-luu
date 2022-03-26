@@ -3,13 +3,13 @@ title: "Michael Luu, MPH"
 image: "michael_headshot_circle.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/miluu/"
+  # - label: Twitter
+  #   url: "https://twitter.com/"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:mluu921@gmail.com"
 output:
   postcards::solana
 site: distill::distill_website
