@@ -1,6 +1,6 @@
 ---
 title: "Michael Luu, MPH"
-image: "tobi.jpg"
+image: "michael_headshot_circle.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
