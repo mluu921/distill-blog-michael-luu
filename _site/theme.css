@@ -76,9 +76,9 @@ All rows must end with a semi-colon.                      */
 /*-- Additional custom styles --*/
   /* Add any additional CSS rules below                      */
   
-  body {
-    background-color: #FFFFFF;
-  }
+body {
+  background-color: #FFFFFF;
+}
 
 a.title {
   width: 151px;
@@ -88,4 +88,10 @@ a.title {
 *, ::after, ::before {
   box-sizing: border-box;
 }
+
+button[style] {
+  background-color: transparent !important;
+}
+
+
 
